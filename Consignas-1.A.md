@@ -11,6 +11,10 @@
 ### **3) En un sobre hay 20 papeles, 8 poseen un dibujo de un coche, las restantes son blancas. Hallar la probabilidad de extraer al menos un papel con el dibujo de un coche si:**  
 <br>
 
+**a)** se saca solo 1 papel. 
+
+**b)** se sacan 2 papeles.    
+
 ## Suponga tiene la tabla ARTICULOS compuesta de la siguiente forma:
 
 | IDArticulo | PRECIO | Proveedor |
