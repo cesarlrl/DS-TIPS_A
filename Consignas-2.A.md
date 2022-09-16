@@ -13,7 +13,6 @@
 # **a)** La primera bola se devuelve a la urna antes de sacar la segunda.
 <br>
 # **b)** La primera bola no se devuelve.
-<br>
 
 ### **4) A partir del punto anterior, calcule la probabilidad de que se extraiga una bola y no sea Roja.**  
 __Respuesta Esperada__:  
