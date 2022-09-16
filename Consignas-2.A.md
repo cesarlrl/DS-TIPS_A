@@ -10,9 +10,9 @@
 
 ### **3) Se sacan dos bolas de una urna que se compone de una bola blanca, otra roja, otra verde y otra negra. Describa el espacio muestral cuando:**
 <br>
-**a)** *La primera bola se devuelve a la urna antes de sacar la segunda.*
+# **a)** La primera bola se devuelve a la urna antes de sacar la segunda.
 <br>
-**b)** *La primera bola no se devuelve.*
+# **b)** La primera bola no se devuelve.
 <br>
 
 ### **4) A partir del punto anterior, calcule la probabilidad de que se extraiga una bola y no sea Roja.**  
